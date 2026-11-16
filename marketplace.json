@@ -1,0 +1,13 @@
+{
+  "name": "local-roblox",
+  "owner": {
+    "name": "Roblox Game Developer"
+  },
+  "plugins": [
+    {
+      "name": "roblox-game-developer",
+      "source": "./claude-plugins/roblox-game-developer",
+      "description": "Roblox development toolkit: Luau, architecture, DataStores, networking, security, performance."
+    }
+  ]
+}
